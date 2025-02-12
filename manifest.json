@@ -36,7 +36,7 @@
     "vtex.order-placed": "2.x",
     "vtex.responsive-layout": "0.x",
     "vtex.rich-text": "0.x",
-    "qamkpmovilidadco.search-result": "4.x",
+    "vtex.search-result": "4.x",
     "vtex.shelf": "1.x",
     "vtex.slider": "0.x",
     "vtex.slider-layout": "0.x",
